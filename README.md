@@ -19,10 +19,10 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yogadahirsa/todo_test.git
-   cd todo-app/front
+   cd todo_test/front
    npm install
    npm run dev
-   cd todo-app/front
+   cd todo_test/front
    go run main.go
 2. **Config**
     set the configuration in main.go at line 17
