@@ -18,7 +18,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/yogadahirsa/todo_test.git
    cd todo-app/front
    npm install
    npm run dev
