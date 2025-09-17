@@ -22,7 +22,7 @@
    cd todo_test/front
    npm install
    npm run dev
-   cd todo_test/front
+   cd todo_test/back
    go run main.go
 2. **Config**
     set the configuration in main.go at line 17
